@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#09C"
+    android:padding="@dimen/widget_margin">
+
+    <TextView
+        android:id="@+id/appwidget_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/aa"
+        android:contentDescription="@string/appwidget_text"
+        android:gravity="bottom|center"
+        android:text="הוספת מוזמן"
+        android:textColor="#FF1493"
+        android:textSize="15sp"
+        android:textStyle="bold|italic" />
+
+</RelativeLayout>

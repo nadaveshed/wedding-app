@@ -1,3 +1,42 @@
 <resources>
     <string name="app_name">final project</string>
+    <string name="Name">שם המוזמן</string>
+    <string name="Phone">טלפון</string>
+    <string name="Number_of_invitees">מספר מזומנים</string>
+    <string name="is_coming">כמה מגיעים</string>
+    <string name="send">שלח הודעה</string>
+    <string name="addUser">הוספת מוזמן חדש</string>
+    <string name="removeTask">מחק</string>
+    <string name="addTas">הוספת משימה חדשה</string>
+    <string name="toDoList">רשימת מטלות</string>
+    <string name="invitedList">רשימת מוזמנים</string>
+    <string name="task">task</string>
+    <string name="sendSMS">שלח</string>
+    <string name="invitedName">הזמנה עבור</string>
+    <string name="invitedPhone">מספר טלפון</string>
+    <string name="numOfInvited">מספר מוזמנים</string>
+    <string name="title">הוספת מוזמן חדש</string>
+    <string name="ADDFG">SFGFTGJ</string>
+    <string name="AddBtn">הוספה</string>
+    <string name="BackBtn">חזרה</string>
+    <string name="Submitminus">-</string>
+    <string name="Submitplus">+</string>
+    <string name="isComingStr">0</string>
+    <string name="AddTask_str">הוספת מטלה</string>
+    <string name="AddTaskBtn">הוספה</string>
+    <string name="Backbtn">חזרה</string>
+
+    <string-array name="choices">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="configure">Configure</string>
 </resources>
